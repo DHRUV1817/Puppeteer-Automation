@@ -336,8 +336,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🏆 **Recognition**
 
 ### **Academic Achievement**
-- **Course**: Web Technologies/Automation
-- **Institution**: [Your University]
 - **Demonstration**: Modern software integration patterns
 - **Application**: Real-world automation principles
 
